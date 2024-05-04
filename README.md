@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Gadewar</h1>
 <h3 align="center">TY IT Student At Dwarkadas J Sanghvi College Of Engineering, Mumbai</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikesh197&label=Profile%20views&color=0e75b6&style=flat" alt="rushikesh197" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushikesh197" alt="rushikesh197" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Computer Vision Project**
@@ -15,11 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16VZqyg5Qoy4XVBZ2p-3oyVsPIY9r2G1a/view?usp=share_link](https://drive.google.com/file/d/16VZqyg5Qoy4XVBZ2p-3oyVsPIY9r2G1a/view?usp=share_link)
 
-- ⚡ Fun fact **Passionate About Technology**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ **Passionate About Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
