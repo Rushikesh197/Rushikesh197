@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Computer Vision Project**
 
-- 🌱 I’m currently learning **Java Springboot, Courses On Cisco**
+- 🌱 I’m currently learning **Java Springboot**
 
 - 📫 How to reach me **rushikeshgadewar@gmail.com**
 
