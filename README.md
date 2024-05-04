@@ -45,7 +45,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikesh197&theme=dark" alt="rushikesh197" /></p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rushikesh197&theme=react-dark" alt="Contribution Heatmap" />
-</p>
-
