@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Gadewar</h1>
-<h3 align="center">TY IT Student At Dwarkadas J Sanghvi College Of Engineering, Mumbai</h3>
+<h3 align="center">Final Year IT Student At Dwarkadas J Sanghvi College Of Engineering, Mumbai</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
