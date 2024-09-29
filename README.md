@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision Project**
+- 🔭 I’m currently working on **Computer Vision & Final Year Projects**
 
 - 🌱 I’m currently learning **Java Springboot**
 
 - 📫 How to reach me **rushikeshgadewar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16VZqyg5Qoy4XVBZ2p-3oyVsPIY9r2G1a/view?usp=share_link](https://drive.google.com/file/d/16VZqyg5Qoy4XVBZ2p-3oyVsPIY9r2G1a/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16VZqyg5Qoy4XVBZ2p-3oyVsPIY9r2G1a/view?usp=share_link](https://drive.google.com/file/d/1wD_o8pJBOCX2Syg3mR-9hLr_vpasD815/view?usp=sharing)
 
 - ⚡ **Passionate About Technology**
 
