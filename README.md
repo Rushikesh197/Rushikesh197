@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rushikeshgadewar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16VZqyg5Qoy4XVBZ2p-3oyVsPIY9r2G1a/view?usp=share_link](https://drive.google.com/file/d/1wD_o8pJBOCX2Syg3mR-9hLr_vpasD815/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16VZqyg5Qoy4XVBZ2p-3oyVsPIY9r2G1a/view?usp=share_link](https://drive.google.com/file/d/1yQ6VBzLmtVLqbD-nMuSc_e8GRJxtq7Om/view?usp=sharing)
 
 - ⚡ **Passionate About Technology**
 
